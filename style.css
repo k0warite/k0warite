@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Cascadia Code';
+    src: url('./assets/font/CascadiaCode.ttf');
+}
+
+@font-face {
+    font-family: 'Cascadia Code PL';
+    src: url('./assets/font/CascadiaCodePL.ttf');
+}
+
+/* ... */

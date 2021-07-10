@@ -1,0 +1,29 @@
+{
+  "name": "farixsm",
+  "version": "1.0.0",
+  "description": "Config files for my GitHub profile.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farixsm/Farixsm.git"
+  },
+  "keywords": [
+    "github",
+    "profile",
+    "readme"
+  ],
+  "author": "Farixsm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Farixsm/Farixsm/issues"
+  },
+  "homepage": "https://github.com/Farixsm/Farixsm#readme",
+  "devDependencies": {
+    "chalk": "^4.1.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
