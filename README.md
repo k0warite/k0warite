@@ -10,7 +10,7 @@
 > *Currently there's no project to show here*
 
 ### GitHub Activity
-Here's my activiy on GitHub\
+Here's my activity on GitHub\
 <a href="https://github-readme-stats.vercel.app/api?username=Farixsm&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Farixsm&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
