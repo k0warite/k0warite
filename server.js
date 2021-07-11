@@ -35,5 +35,5 @@ app.get('/script.js', (req, res) => {
 });
 
 app.listen(parseInt(PORT), HOST, () => {
-    logger('Info', `Development server running on port: ${PORT}`);
+    logger('Info', `Development server running on port ${PORT}`);
 });

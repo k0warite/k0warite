@@ -3,7 +3,7 @@
 ### About me
 * I'm a 14 years old student from Malaysia.
 * I also make some music (EDM).
-* Programming is only a hobby for me, not a jobs.
+* Programming is only a hobby for me, not a job.
 * I'm currently aiming for the [**Kyoto University**](https://www.kyoto-u.ac.jp/en 'Kyoto University')
 
 ### Projects spotlight
@@ -14,8 +14,8 @@ Here's my activity on GitHub\
 <a href="https://github-readme-stats.vercel.app/api?username=Farixsm&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Farixsm&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Onyxzen&theme=merko&layout=compact&bg_color=0D1117&hide_border=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onyxzen&theme=merko&layout=compact&bg_color=0D1117&hide_border=true" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Onyxzen&tokyonight=merko&layout=compact&bg_color=0D1117&hide_border=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onyxzen&tokyonight=merko&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
 ### Social Media

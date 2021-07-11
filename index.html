@@ -1,13 +1,74 @@
 <!DOCTYPE html>
-<html>
+
+<html lang="en">
 <head>
-    <title>Farixsm</title>
-    <link rel="stylesheet" href="./style.css" type="text/css">
-    <script type="module" src="./script.js"></script>
+    <title>
+        Farixsm
+    </title>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="">
+
+    <link rel="stylesheet" href="./style.css">
+    <script src="./script.js" type="module"></script>
 </head>
 
 <body>
-    <div id="root" class="base"></div>
+    <header class="header" role="banner" id="top">
+        <div class="row">
+            <nav class="nav" role="navigation">
+                <ul class="nav-items">
+                    <li class="nav-item"><a href="#about">About</a></li>
+                    <li class="nav-item"><a href="#project">Projects</a></li>
+                    <li class="nav-item"><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+
+        <div class="nav-text-box row">
+            <h1 class="heading-primary">
+                <span>Farixsm</span>
+            </h1>
+            <p>A 14 years old developer and music producer from Malaysia</p>
+            <a href="#contact" class="btn btn-pink">Get in touch</a>
+        </div>
+    </header>
+
+    <main role="main">
+        <section class="project" id="project">
+            <div class="row">
+                <h2>My projects</h2>
+
+                <div class="project-boxes">
+                    <div class="project-box">
+                        <div class="project-text">
+                            <h3>Portfolio</h3>
+                            <p>A simple portfolio made with HTML, CSS and some JavaScript</p>
+
+                            <ul class="project-lang">
+                                <li>HTML</li>
+                                <li>CSS</li>
+                                <li>JavaScript</li>
+                            </ul>
+
+                            <div class="project-link">
+                                <a href="" target="_blank" class="link-text">Visit Site <span>&rarr;</span></a>
+                                <a href="https://github.com/Farixsm/Farixsm" title="View Source Code" target="_blank">
+                                    <img src="./assets/image/github.svg" class="project-source" alt="GitHub">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+    </main>
+
+    <section class="contact" id="contact"></section>
+
+    <footer role="contentinfo" class="footer"></footer>
 </body>
 
 </html>
