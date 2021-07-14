@@ -4,7 +4,7 @@
 * I'm a 14 years old student from Malaysia.
 * I also make some music (EDM).
 * Programming is only a hobby for me, not a job.
-* I'm currently aiming for the [**Kyoto University**](https://www.kyoto-u.ac.jp/en 'Kyoto University')
+* I'm currently aiming for the [**Kyoto University**](https://www.kyoto-u.ac.jp/en 'Kyoto University').
 
 ### Projects spotlight
 > *Currently there's no project to show here*
