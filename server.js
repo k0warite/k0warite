@@ -12,6 +12,7 @@ const HOST = process.env.HOST || 'localhost';
 const PORT = process.env.PORT || 3000;
 
 app.use('/assets', express.static(path.resolve(__dirname, 'assets')));
+app.use(express.json());
 
 app.get('/', (req, res) => {
     logger('Debug', `GET ${req.url}`);
@@ -32,6 +33,11 @@ app.get('/script.js', (req, res) => {
     res.sendFile(path.resolve(__dirname, 'script.js'), (err) => {
         if (err) return logger('Error', err.message);
     });
+});
+
+app.post('/error', (req, res) => {
+    logger('Error', req.body.msg);
+    res.send(JSON.stringify({ message: 'Logged' }));
 });
 
 app.listen(parseInt(PORT), HOST, () => {

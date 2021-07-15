@@ -10,8 +10,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="">
 
-    <link rel="stylesheet" href="style.css">
-    <script src="script.js" type="module"></script>
+    <link rel="stylesheet" href="./style.css">
+    <script src="./script.js" type="module"></script>
 </head>
 
 <body>
@@ -19,16 +19,16 @@
         <div class="row">
             <nav class="nav" role="navigation">
                 <ul class="nav-items">
-                    <li class="nav-item"><a href="#about">About</a></li>
-                    <li class="nav-item"><a href="#project">Projects</a></li>
-                    <li class="nav-item"><a href="#contact">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#project">Projects</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
                 </ul>
             </nav>
         </div>
 
         <div class="nav-text-box row">
             <h1 class="heading-primary">
-                <span>kowarite</span>
+                <span>kowarite profile</span>
             </h1>
             <p>A 14 years old developer and music producer from Malaysia</p>
             <a href="#contact" class="btn btn-pink">Get in touch</a>
@@ -55,7 +55,7 @@
                             <div class="project-link">
                                 <a href="https://kowarite.github.io/kowarite/" target="_blank" class="link-text">Visit Site <span>&rarr;</span></a>
                                 <a href="https://github.com/kowarite/kowarite" title="View Source Code" target="_blank">
-                                    <img src="assets/image/github.svg" class="project-source" alt="GitHub">
+                                    <img src="./assets/image/github.svg" class="project-source" alt="GitHub">
                                 </a>
                             </div>
                         </div>
@@ -75,7 +75,7 @@
                             <div class="project-link">
                                 <a href="https://github.com/kowarite/rxt/tree/main/doc" target="_blank" class="link-text">Read Documentation <span>&rarr;</span></a>
                                 <a href="https://github.com/kowarite/rxt" title="View Source Code" target="_blank">
-                                    <img src="assets/image/github.svg" class="project-source" alt="GitHub">
+                                    <img src="./assets/image/github.svg" class="project-source" alt="GitHub">
                                 </a>
                             </div>
                         </div>
@@ -86,9 +86,27 @@
         </section>
     </main>
 
-    <section class="contact" id="contact"></section>
+    <footer role="contentinfo" class="footer">
+        <div class="row">
+            <ul class="footer-social-links">
+                <li class="footer-social-link-item">
+                    <a href="https://github.com/kowarite" title="Link to GitHub profile">
+                        <img src="./assets/image/github.svg" class="footer-social-image" alt="GitHub">
+                    </a>
+                </li>
 
-    <footer role="contentinfo" class="footer"></footer>
+                <li class="footer-social-link-item">
+                    <a href="https://twitter.com/kowarite" title="Link to Twitter profile">
+                        <img src="./assets/image/twitter.svg" class="footer-social-image" alt="Twitter">
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </footer>
+
+    <a href="#top" class="back-to-top" title="Back to top">
+        <img src="./assets/image/arrow.svg" alt="Back to top" class="back-to-top-img">
+    </a>
 </body>
 
 </html>

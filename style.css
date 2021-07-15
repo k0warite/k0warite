@@ -306,7 +306,7 @@ body:not(.user-is-tabbing) a:focus {
     transition: all .4s;
 }
 
-.back-to-top__image {
+.back-to-top-image {
     height: 70%;
 }
 
@@ -480,4 +480,24 @@ body:not(.user-is-tabbing) a:focus {
     .project-source {
         height: 4rem;
     }
+}
+
+.footer {
+    text-align: center;
+    padding: var(--gutter-medium) 0 var(--gutter-normal);
+}
+
+.footer-social-links {
+    display: flex;
+    justify-content: center;
+    padding: var(--gutter-normal) 0;
+    list-style: none;
+}
+
+.footer__social-link-item:not(:last-of-type) {
+    margin-right: var(--gutter-small);
+}
+
+.footer-social-image {
+    height: 4rem;
 }
