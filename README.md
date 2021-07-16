@@ -14,8 +14,8 @@ Here's my activity on GitHub\
 <a href="https://github-readme-stats.vercel.app/api?username=kowarite&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=kowarite&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kowarite&theme=tokyonight&layout=compact&bg_color=0D1117&hide_border=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowarite&theme=tokyonight&layout=compact&bg_color=0D1117&hide_border=true" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kowarite&theme=tokyonight&layout=compact&bg_color=0D1117&hide_border=true&langs_count=10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowarite&theme=tokyonight&layout=compact&bg_color=0D1117&hide_border=true&langs_count=10" />
 </a>
 
 ### Social Media
