@@ -7,7 +7,8 @@
 * I'm currently aiming for the [**Kyoto University**](https://www.kyoto-u.ac.jp/en 'Kyoto University').
 
 ### Projects spotlight
-> *Currently there's no project to show here*
+1. [kowarite/rxt](https://github.com/kowarite/rxt 'rxt')\
+[![rxt](https://github-readme-stats.vercel.app/api/pin/?username=kowarite&repo=rxt&show_owner=true&theme=tokyonight&bg_color=0D1117&hide_border=true)](https://github.com/kowarite/rxt)
 
 ### GitHub Activity
 Here's my activity on GitHub\
