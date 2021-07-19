@@ -494,7 +494,7 @@ body:not(.user-is-tabbing) a:focus {
     list-style: none;
 }
 
-.footer__social-link-item:not(:last-of-type) {
+.footer-social-link-item:not(:last-of-type) {
     margin-right: var(--gutter-small);
 }
 
