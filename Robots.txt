@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow /assets/
-Sitemap: https://kowarite.github.io/kowarite/sitemap.xml
+Sitemap: https://k0warite.github.io/k0warite/sitemap.xml
